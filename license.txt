@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neon Party - #RTJ4D - Remix Challenge
+* source:	https://sketchfab.com/3d-models/neon-party-rtj4d-remix-challenge-b26c6e3236f546c89610dbc42f56bc72
+* author:	addude04 (https://sketchfab.com/addude04)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neon Party - #RTJ4D - Remix Challenge" (https://sketchfab.com/3d-models/neon-party-rtj4d-remix-challenge-b26c6e3236f546c89610dbc42f56bc72) by addude04 (https://sketchfab.com/addude04) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
